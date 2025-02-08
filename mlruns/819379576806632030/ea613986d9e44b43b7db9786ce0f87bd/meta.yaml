@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/ea613986d9e44b43b7db9786ce0f87bd/artifacts
+end_time: 1739031501716
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: ea613986d9e44b43b7db9786ce0f87bd
+run_name: nosy-doe-278
+run_uuid: ea613986d9e44b43b7db9786ce0f87bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739031467982
+status: 3
+tags: []
+user_id: danrl

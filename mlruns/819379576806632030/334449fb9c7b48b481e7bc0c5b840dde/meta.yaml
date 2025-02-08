@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/334449fb9c7b48b481e7bc0c5b840dde/artifacts
+end_time: 1739033941839
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 334449fb9c7b48b481e7bc0c5b840dde
+run_name: rebellious-bird-850
+run_uuid: 334449fb9c7b48b481e7bc0c5b840dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739033927985
+status: 3
+tags: []
+user_id: danrl
