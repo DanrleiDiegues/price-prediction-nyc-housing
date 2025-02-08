@@ -16,7 +16,7 @@
  'disponibilidade_365': 355
  }
 
-
+0. Configurações iniciais: instale Python 3.12.7 e as dependências no arquivo "requirements.txt"
 1. Entre em 'predict.ipynb' e rode o código completo;
 2. Para trocar o modelo, basta substituir o path que leva o modelo. Onde está "model_path = 'models/catboost_model_20250208_131741.pkl'"
 
