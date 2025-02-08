@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/3fd4daea1d44430ca0ee82d4214f21ed/artifacts
+end_time: 1738843426200
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 3fd4daea1d44430ca0ee82d4214f21ed
+run_name: wistful-loon-433
+run_uuid: 3fd4daea1d44430ca0ee82d4214f21ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738843416614
+status: 3
+tags: []
+user_id: danrl

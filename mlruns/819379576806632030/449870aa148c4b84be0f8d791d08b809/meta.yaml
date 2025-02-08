@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/449870aa148c4b84be0f8d791d08b809/artifacts
+deleted_time: 1738770249399
+end_time: 1738769788244
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: deleted
+run_id: 449870aa148c4b84be0f8d791d08b809
+run_name: adaptable-roo-40
+run_uuid: 449870aa148c4b84be0f8d791d08b809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769788180
+status: 4
+tags: []
+user_id: danrl

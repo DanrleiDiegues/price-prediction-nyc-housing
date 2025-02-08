@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/888ac743fa9546b3988e0ad616bdee94/artifacts
+end_time: 1738993096353
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 888ac743fa9546b3988e0ad616bdee94
+run_name: thundering-roo-663
+run_uuid: 888ac743fa9546b3988e0ad616bdee94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738993080428
+status: 3
+tags: []
+user_id: danrl

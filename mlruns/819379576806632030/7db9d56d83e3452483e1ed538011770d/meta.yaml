@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/7db9d56d83e3452483e1ed538011770d/artifacts
+deleted_time: 1738770249406
+end_time: 1738769755481
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: deleted
+run_id: 7db9d56d83e3452483e1ed538011770d
+run_name: abrasive-flea-926
+run_uuid: 7db9d56d83e3452483e1ed538011770d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769755419
+status: 4
+tags: []
+user_id: danrl

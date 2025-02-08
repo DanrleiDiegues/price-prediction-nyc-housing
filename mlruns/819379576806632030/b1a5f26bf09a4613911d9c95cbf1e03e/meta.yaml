@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/b1a5f26bf09a4613911d9c95cbf1e03e/artifacts
+end_time: 1738805153640
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: b1a5f26bf09a4613911d9c95cbf1e03e
+run_name: delicate-crow-559
+run_uuid: b1a5f26bf09a4613911d9c95cbf1e03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738805144783
+status: 3
+tags: []
+user_id: danrl

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/dcfec8df998c46e6b1498ad6ff8f8f16/artifacts
+deleted_time: 1738770249396
+end_time: 1738770041632
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: deleted
+run_id: dcfec8df998c46e6b1498ad6ff8f8f16
+run_name: skittish-flea-854
+run_uuid: dcfec8df998c46e6b1498ad6ff8f8f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738770041577
+status: 4
+tags: []
+user_id: danrl

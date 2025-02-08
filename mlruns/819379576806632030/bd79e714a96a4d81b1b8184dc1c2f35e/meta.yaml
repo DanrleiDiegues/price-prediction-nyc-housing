@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/bd79e714a96a4d81b1b8184dc1c2f35e/artifacts
+end_time: 1738993283265
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: bd79e714a96a4d81b1b8184dc1c2f35e
+run_name: big-shoat-924
+run_uuid: bd79e714a96a4d81b1b8184dc1c2f35e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738993261004
+status: 3
+tags: []
+user_id: danrl

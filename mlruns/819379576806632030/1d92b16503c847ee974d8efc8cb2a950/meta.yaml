@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/1d92b16503c847ee974d8efc8cb2a950/artifacts
+end_time: 1738806133065
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 1d92b16503c847ee974d8efc8cb2a950
+run_name: peaceful-grub-82
+run_uuid: 1d92b16503c847ee974d8efc8cb2a950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738806121647
+status: 3
+tags: []
+user_id: danrl

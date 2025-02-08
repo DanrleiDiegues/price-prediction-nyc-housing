@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/ab2dea03dea04cf58f38cb8f2fe01daa/artifacts
+end_time: 1738845206377
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: ab2dea03dea04cf58f38cb8f2fe01daa
+run_name: dazzling-fowl-666
+run_uuid: ab2dea03dea04cf58f38cb8f2fe01daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738845197825
+status: 3
+tags: []
+user_id: danrl

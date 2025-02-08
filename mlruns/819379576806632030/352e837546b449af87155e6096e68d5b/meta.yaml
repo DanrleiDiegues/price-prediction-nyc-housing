@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/352e837546b449af87155e6096e68d5b/artifacts
+end_time: 1738990353869
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 352e837546b449af87155e6096e68d5b
+run_name: industrious-crow-882
+run_uuid: 352e837546b449af87155e6096e68d5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738990332547
+status: 3
+tags: []
+user_id: danrl

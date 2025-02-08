@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738696277056
+current_stage: None
+description: ''
+last_updated_timestamp: 1738696277056
+name: CatBoost_v1
+run_id: bd48d6e45f574d139e4b72427e930097
+run_link: ''
+source: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/bd48d6e45f574d139e4b72427e930097/artifacts/CatBoost_Model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/bd48d6e45f574d139e4b72427e930097/artifacts/CatBoost_Model
+user_id: null
+version: 1

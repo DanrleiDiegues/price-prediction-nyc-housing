@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/7fb5e85d268b40dc88d82e7c9a4cb8fe/artifacts
+deleted_time: 1738770249411
+end_time: 1738769529528
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: deleted
+run_id: 7fb5e85d268b40dc88d82e7c9a4cb8fe
+run_name: loud-roo-570
+run_uuid: 7fb5e85d268b40dc88d82e7c9a4cb8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769529461
+status: 4
+tags: []
+user_id: danrl

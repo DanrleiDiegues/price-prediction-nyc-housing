@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/820ded1fd84042338d16598d08c691cf/artifacts
+deleted_time: 1738770249400
+end_time: 1738769957039
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: deleted
+run_id: 820ded1fd84042338d16598d08c691cf
+run_name: amazing-jay-223
+run_uuid: 820ded1fd84042338d16598d08c691cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738769956976
+status: 4
+tags: []
+user_id: danrl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/danrl/Documents/Projects/indicium_project/mlruns/819379576806632030/3a377300ae594590a203bcafc8189d97/artifacts
+end_time: 1738770116938
+entry_point_name: ''
+experiment_id: '819379576806632030'
+lifecycle_stage: active
+run_id: 3a377300ae594590a203bcafc8189d97
+run_name: unruly-fowl-403
+run_uuid: 3a377300ae594590a203bcafc8189d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738770097598
+status: 3
+tags: []
+user_id: danrl
